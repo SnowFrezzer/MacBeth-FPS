@@ -9,13 +9,17 @@
 
 ### Unreal 
 
+### Discord
+
+
 ## Create Project 
 
-### Initial project skeleton
+### Initial Project Skeleton
 
-#### Minimal github repository
+#### Minimal Github Repository
 
-#### Minimal unreal project
+#### Minimal Unreal Project
+
 
 ## Project Design
 
